@@ -1,10 +1,6 @@
----
-noteId: "10aac000bcdf11f09de29b8d47a72aae"
-tags: []
+# Data Science - Oracle - OneG9 - Alura
 
----
-
-# 🏪 Challenge Alura Store - OneG9
+# 🏪 Challenge Alura Store 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -66,7 +62,7 @@ https://colab.research.google.com/
 ## Equipe:
 <ul>
   <li>Aluno: Washington</li>
-  <li>Github:(https://github.com/washingtongomes)</li>
 </ul>
 
+[![GitHub](https://img.shields.io/badge/-Meu%20GitHub-000?logo=github&logoColor=white)](https://github.com/washingtonsgomes)
 

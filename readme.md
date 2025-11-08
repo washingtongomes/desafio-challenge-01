@@ -33,6 +33,9 @@ Este projeto pode ser executado diretamente no **Google Colab**, sem necessidade
 Abra o ambiente online:
 https://colab.research.google.com/
 
+Baixar arquivo no Github:
+https://github.com/washingtongomes/desafio-challenge-01 
+
 ---
 
 ### 2. Carregue o Notebook

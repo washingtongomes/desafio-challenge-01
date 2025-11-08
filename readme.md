@@ -66,7 +66,7 @@ https://colab.research.google.com/
 ## Equipe:
 <ul>
   <li>Aluno: Washington</li>
-  <li>Github: ![Github](https://github.com/washingtongomes/desafio-challenge-01)</li>
+  <li>Github:(https://github.com/washingtongomes)</li>
 </ul>
 
 

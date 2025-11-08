@@ -48,3 +48,19 @@ https://colab.research.google.com/
 ![preview](./images/img08.png)
 ![preview](./images/img09.png)
 
+
+#  Tecnologias:
+
+    > Notebook - Google Collab  
+    > Git & GitHub
+
+#  Opcional:
+    > VScode
+
+## Equipe:
+<ul>
+  <li>Aluno: Washington</li>
+  <li>Github:</li>
+</ul>
+![Github](https://github.com/washingtongomes/desafio-challenge-01)
+

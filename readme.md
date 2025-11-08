@@ -61,13 +61,20 @@ https://colab.research.google.com/
 
 ## Equipe
 
-**Aluno:** Washington  
 <div align="center">
-[<img src="https://avatars.githubusercontent.com/u/68349833?v=4" width="100" height="100" style="border-radius:50%;">](https://github.com/washingtongomes)
+
+**Washington Gomes**  
+
+<a href="https://github.com/washingtongomes">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" />
+</a>
+
+<br>
 
 🔗 **GitHub:** https://github.com/washingtongomes
 
 </div>
+
 
 
 

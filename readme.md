@@ -64,5 +64,6 @@ https://colab.research.google.com/
   <li>Aluno: Washington</li>
 </ul>
 
-[![GitHub](https://img.shields.io/badge/-Meu%20GitHub-000?logo=github&logoColor=white)](https://github.com/washingtonsgomes)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/washingtonsgomes)
+
 

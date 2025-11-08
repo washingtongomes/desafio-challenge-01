@@ -62,10 +62,12 @@ https://colab.research.google.com/
 ## Equipe:
 <ul>
   <li>Aluno: Washington</li>
+  <img align="center">[![Washington](https://avatars.githubusercontent.com/u/68349833?v=4)](https://github.com/washingtongomes)</img>
+
 </ul>
 
 
-[![Washington](https://avatars.githubusercontent.com/u/68349833?v=4)](https://github.com/washingtonsgomes)
+
 
 
 

@@ -62,12 +62,12 @@ https://colab.research.google.com/
 ## Equipe
 
 **Aluno:** Washington  
-
+<div align="center">
 [<img src="https://avatars.githubusercontent.com/u/68349833?v=4" width="100" height="100" style="border-radius:50%;">](https://github.com/washingtongomes)
 
 🔗 **GitHub:** https://github.com/washingtongomes
 
-
+</div>
 
 
 

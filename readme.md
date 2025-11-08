@@ -59,12 +59,14 @@ https://colab.research.google.com/
 #  Opcional:
     > VScode
 
-## Equipe:
-<ul>
-  <li>Aluno: Washington</li>
-  <img align="center">[![Washington](https://avatars.githubusercontent.com/u/68349833?v=4)](https://github.com/washingtongomes)</img>
+## Equipe
 
-</ul>
+**Aluno:** Washington  
+
+[<img src="https://avatars.githubusercontent.com/u/68349833?v=4" width="100" height="100" style="border-radius:50%;">](https://github.com/washingtongomes)
+
+🔗 **GitHub:** https://github.com/washingtongomes
+
 
 
 

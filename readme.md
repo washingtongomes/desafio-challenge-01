@@ -64,6 +64,11 @@ https://colab.research.google.com/
   <li>Aluno: Washington</li>
 </ul>
 
+<<<<<<< HEAD
 ![GitHub](https://github.com/washingtongomes)
+=======
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/washingtonsgomes)
+
+>>>>>>> 26c2d0a (Acertando inicializacao)
 
 

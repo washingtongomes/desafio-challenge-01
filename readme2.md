@@ -38,13 +38,13 @@ https://colab.research.google.com/
 > No menu superior do Colab importar o arquivo com extensão Python :
 > **Desafio_OneG9_Alura.ipynb**
 
-![preview](./.github/img01.png)
-![preview](./.github/img02.png)
-![preview](./.github/img03.png)
-![preview](./.github/img04.png)
-![preview](./.github/img05.png)
-![preview](./.github/img06.png)
-![preview](./.github/img07.png)
-![preview](./.github/img08.png)
-![preview](./.github/img09.png)
+![preview](./images/img01.png)
+![preview](./images/img02.png)
+![preview](./images/img03.png)
+![preview](./images/img04.png)
+![preview](./images/img05.png)
+![preview](./images/img06.png)
+![preview](./images/img07.png)
+![preview](./images/img08.png)
+![preview](./images/img09.png)
 

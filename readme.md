@@ -64,6 +64,6 @@ https://colab.research.google.com/
   <li>Aluno: Washington</li>
 </ul>
 
-[![GitHub](https://github.com/washingtongomes)
+![GitHub](https://github.com/washingtongomes)
 
 
